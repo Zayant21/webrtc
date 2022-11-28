@@ -11,7 +11,7 @@ The goal of this project is to develop real time communication applications. The
 <img width="721" alt="Homepage" src="https://user-images.githubusercontent.com/50725935/204189251-34374866-cf02-4ed0-8a09-de88b451eabc.png"> </p>
 
 
-<p> Once the user clicks on the "Join Room" button, the system will redirect the user to page, shown below, where the user can chat and communicate with the user. On the left side of the application, the user can toogle to mute or unmute his microphone and either start to stop displaying his camera. On the right side of the application, the user can communicate by chatting with other users in the call. <br> 
+<p> Once the user clicks on the "Join Room" button, the system will redirect the user to the page shown below, where the user can chat and communicate with the user. On the left side of the application, the user can toggle to mute or unmute his microphone and either start to stop displaying his camera. The user can communicate on the right side of the application by chatting with other users in the call. <br> 
 <img width="1433" alt="Video Chat Page" src="https://user-images.githubusercontent.com/50725935/204189256-4bae0311-db63-4465-b3cc-ff2f6d807944.png"> </p>
 
 

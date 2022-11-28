@@ -7,8 +7,7 @@ The goal of this project is to develop real time communication applications. The
 ## Project Overview
 
 
-The image below illustrate the homepage of our application. 
-  -> The user can create their own room by creating any user ID and clicking the "Join Room" button.
+<p>Firstly, the user will naviagte to our page in which the user can create own room by creating any user ID and clicking the "Join Room" button.</p><br>
 <img width="721" alt="Homepage" src="https://user-images.githubusercontent.com/50725935/204189251-34374866-cf02-4ed0-8a09-de88b451eabc.png">
 
 
